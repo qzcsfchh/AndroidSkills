@@ -3,7 +3,7 @@ package io.github.qzcsfchh.androidskills.info;
 import java.io.File;
 
 /**
- * Desc.
+ * Check root info of device.
  *
  * @author huanghao
  * @version v1.0
